@@ -56,7 +56,7 @@
     right: 0;
     top: 0;
     z-index: -1;
-    opacity: .77;
+    opacity: 0.77;
   }
   .main-slides-content {
     text-align: start;
@@ -94,12 +94,13 @@
   .home-slides.owl-theme .owl-nav {
     margin-top: 0;
   }
-  .home-slides.owl-theme .owl-nav .owl-prev, .home-slides.owl-theme .owl-nav .owl-next {
+  .home-slides.owl-theme .owl-nav .owl-prev,
+  .home-slides.owl-theme .owl-nav .owl-next {
     position: absolute;
     left: 0;
     top: unset;
     -webkit-transform: unset;
-            transform: unset;
+    transform: unset;
     height: 50px;
     line-height: 50px;
     bottom: 0;
@@ -198,7 +199,7 @@
   .testimonial-item .icon {
     top: 15%;
     -webkit-transform: translateY(-15%);
-            transform: translateY(-15%);
+    transform: translateY(-15%);
   }
   .testimonial-item h3 {
     font-size: 18px;
@@ -286,7 +287,11 @@
   .single-speakers-box .speakers-content .top-content .message-icon {
     display: none;
   }
-  .single-speakers-box .speakers-content .bottom-content .view-btn .view-btn-one {
+  .single-speakers-box
+    .speakers-content
+    .bottom-content
+    .view-btn
+    .view-btn-one {
     font-size: 15px;
     padding: 8px 25px;
   }
@@ -427,31 +432,31 @@
   .events-schedules-table .content-btn {
     text-align: left;
   }
-  .expect-slides.owl-theme:hover .owl-nav [class*=owl-] {
+  .expect-slides.owl-theme:hover .owl-nav [class*="owl-"] {
     left: 0px;
   }
-  .expect-slides.owl-theme:hover .owl-nav [class*=owl-].owl-next {
+  .expect-slides.owl-theme:hover .owl-nav [class*="owl-"].owl-next {
     left: auto;
     right: 0px;
   }
-  .partner-slides.owl-theme:hover .owl-nav [class*=owl-] {
+  .partner-slides.owl-theme:hover .owl-nav [class*="owl-"] {
     left: 0px;
   }
-  .partner-slides.owl-theme:hover .owl-nav [class*=owl-].owl-next {
+  .partner-slides.owl-theme:hover .owl-nav [class*="owl-"].owl-next {
     left: auto;
     right: 0px;
   }
-  .testimonial-slides-two.owl-theme:hover .owl-nav [class*=owl-] {
+  .testimonial-slides-two.owl-theme:hover .owl-nav [class*="owl-"] {
     left: 0px;
   }
-  .testimonial-slides-two.owl-theme:hover .owl-nav [class*=owl-].owl-next {
+  .testimonial-slides-two.owl-theme:hover .owl-nav [class*="owl-"].owl-next {
     left: auto;
     right: 0px;
   }
-  .testimonial-slides.owl-theme:hover .owl-nav [class*=owl-] {
+  .testimonial-slides.owl-theme:hover .owl-nav [class*="owl-"] {
     left: 0px;
   }
-  .testimonial-slides.owl-theme:hover .owl-nav [class*=owl-].owl-next {
+  .testimonial-slides.owl-theme:hover .owl-nav [class*="owl-"].owl-next {
     left: auto;
     right: 0px;
   }
@@ -573,19 +578,38 @@
   .products-details-tabs .nav .nav-item:last-child {
     margin-bottom: 0;
   }
-  .products-details-tabs .tab-content .tab-pane .products-reviews .review-content {
+  .products-details-tabs
+    .tab-content
+    .tab-pane
+    .products-reviews
+    .review-content {
     padding: 25px;
   }
-  .products-details-tabs .tab-content .tab-pane .products-reviews .review-content img {
+  .products-details-tabs
+    .tab-content
+    .tab-pane
+    .products-reviews
+    .review-content
+    img {
     position: relative;
     left: 0;
     top: 0;
     margin-bottom: 20px;
   }
-  .products-details-tabs .tab-content .tab-pane .products-review-form .review-form h3 {
+  .products-details-tabs
+    .tab-content
+    .tab-pane
+    .products-review-form
+    .review-form
+    h3 {
     font-size: 20px;
   }
-  .products-details-tabs .tab-content .tab-pane .products-review-form .review-form form {
+  .products-details-tabs
+    .tab-content
+    .tab-pane
+    .products-review-form
+    .review-form
+    form {
     padding: 20px;
   }
   .partner-title h3 {
@@ -749,12 +773,13 @@
   .home-slides.owl-theme .owl-nav {
     margin-top: 0;
   }
-  .home-slides.owl-theme .owl-nav .owl-prev, .home-slides.owl-theme .owl-nav .owl-next {
+  .home-slides.owl-theme .owl-nav .owl-prev,
+  .home-slides.owl-theme .owl-nav .owl-next {
     position: absolute;
     left: 0;
     top: unset;
     -webkit-transform: unset;
-            transform: unset;
+    transform: unset;
     height: 50px;
     line-height: 50px;
     bottom: 0;
@@ -820,7 +845,7 @@
   .testimonial-item .icon {
     top: 15%;
     -webkit-transform: translateY(-15%);
-            transform: translateY(-15%);
+    transform: translateY(-15%);
   }
   .testimonial-item .rating-list li i {
     font-size: 15px;
@@ -853,7 +878,11 @@
   .single-speakers-box .speakers-content .top-content .message-icon {
     display: none;
   }
-  .single-speakers-box .speakers-content .bottom-content .view-btn .view-btn-one {
+  .single-speakers-box
+    .speakers-content
+    .bottom-content
+    .view-btn
+    .view-btn-one {
     font-size: 15px;
     padding: 8px 25px;
   }
@@ -922,31 +951,31 @@
   .events-schedules-table .content-btn {
     text-align: left;
   }
-  .expect-slides.owl-theme:hover .owl-nav [class*=owl-] {
+  .expect-slides.owl-theme:hover .owl-nav [class*="owl-"] {
     left: 0px;
   }
-  .expect-slides.owl-theme:hover .owl-nav [class*=owl-].owl-next {
+  .expect-slides.owl-theme:hover .owl-nav [class*="owl-"].owl-next {
     left: auto;
     right: 0px;
   }
-  .partner-slides.owl-theme:hover .owl-nav [class*=owl-] {
+  .partner-slides.owl-theme:hover .owl-nav [class*="owl-"] {
     left: 0px;
   }
-  .partner-slides.owl-theme:hover .owl-nav [class*=owl-].owl-next {
+  .partner-slides.owl-theme:hover .owl-nav [class*="owl-"].owl-next {
     left: auto;
     right: 0px;
   }
-  .testimonial-slides-two.owl-theme:hover .owl-nav [class*=owl-] {
+  .testimonial-slides-two.owl-theme:hover .owl-nav [class*="owl-"] {
     left: 0px;
   }
-  .testimonial-slides-two.owl-theme:hover .owl-nav [class*=owl-].owl-next {
+  .testimonial-slides-two.owl-theme:hover .owl-nav [class*="owl-"].owl-next {
     left: auto;
     right: 0px;
   }
-  .testimonial-slides.owl-theme:hover .owl-nav [class*=owl-] {
+  .testimonial-slides.owl-theme:hover .owl-nav [class*="owl-"] {
     left: 0px;
   }
-  .testimonial-slides.owl-theme:hover .owl-nav [class*=owl-].owl-next {
+  .testimonial-slides.owl-theme:hover .owl-nav [class*="owl-"].owl-next {
     left: auto;
     right: 0px;
   }
@@ -1111,7 +1140,7 @@
     left: 0;
     top: unset;
     -webkit-transform: unset;
-            transform: unset;
+    transform: unset;
     margin-bottom: 20px;
   }
   .events-schedules-table {
